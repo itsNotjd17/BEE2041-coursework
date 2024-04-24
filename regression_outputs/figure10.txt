@@ -4,7 +4,7 @@ Dep. Variable:                      y   R-squared:                       0.848
 Model:                            OLS   Adj. R-squared:                  0.846
 Method:                 Least Squares   F-statistic:                     720.5
 Date:                Wed, 24 Apr 2024   Prob (F-statistic):          1.50e-106
-Time:                        20:20:29   Log-Likelihood:                -1494.1
+Time:                        21:15:32   Log-Likelihood:                -1494.1
 No. Observations:                 262   AIC:                             2994.
 Df Residuals:                     259   BIC:                             3005.
 Df Model:                           2                                         
@@ -26,4 +26,3 @@ Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 9.39e+03. This might indicate that there are
 strong multicollinearity or other numerical problems.
-
